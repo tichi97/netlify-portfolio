@@ -66,7 +66,7 @@ class NavBar extends Component{
                         className="link dim black f6 f5-ns dib mr3 mr4-ns hover-dark-gray pointer"
                     >Contact</Link>
                     <button className='pa2 ba bg-white-90 near-black bg-animate hover-bg-near-black hover-white pointer'>
-                        <a href="../assets/resume.pdf" target="_blank">Resume</a>
+                        <a className='black hover-white link' href="https://drive.google.com/file/d/1N06WS43dDLIHww27jP5GZXEq-u3TCH18/view?usp=sharing" target="_blank">Resume</a>
                     </button>
 
 
