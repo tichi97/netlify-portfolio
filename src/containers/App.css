@@ -1,7 +1,15 @@
 .App {
   text-align: center;
-}
 
+}
+.myapp{
+  /*height: auto;*/
+  /*background-image: url('../assets/macbackground.jpg');*/
+  /*background-size: contain;*/
+}
+.m-auto{
+  margin:auto;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +44,12 @@
     transform: rotate(360deg);
   }
 }
+
+h1,h2{
+  font-family: 'Vidaloka';
+}
+p{
+  font-family: 'Lora';
+}
+
+
