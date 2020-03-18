@@ -20,25 +20,20 @@ h1,h2{
 .landing h1{
     margin:0;
 }
-.landing h1{
+.landing h1, .landing h2{
 
     animation:3s fade 5s;
     animation-fill-mode:forwards;
     opacity: 0;
 
 }
-.landing h2{
-    animation:3s fade 5s;
-    animation-fill-mode:forwards;
-    opacity: 0;
 
-}
 @keyframes fade{
     0%{
         opacity: 0;
     }
     100%{
-        opacity: 100%;
+        opacity: 1;
     }
 }
 
