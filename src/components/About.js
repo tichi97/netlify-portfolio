@@ -23,7 +23,7 @@ class About extends Component{
                 <div className='w-50-l w-100 pa4'>
                     <p className='near-black f5-ns tj'>Hi, my name is Tichi! I am a software developer based in
                     Dallas, Texas. I love building elegant solutions through code and would love an opportunity
-                    to work apply my skills and experience in a developer role working with motivated individuals
+                    to apply my skills and experience in a developer role working with motivated individuals
                     towards the advancement of the company.</p>
                     <p className='near-black f5-ns tj'>Here are some of the technologies I've been working with recently:
                     </p>
