@@ -8,6 +8,7 @@ class Work1 extends Component{
             <div className='tl ph4 work'>
                 <h3 className='near-black'>Wake-up Womens Organization</h3>
                 <small className='moon-gray'>2019 - 2020</small>
+                <small className='moon-gray'><a href="https://wake-upwawo.org/" target="_blank" className='moon-gray link pointer'>View website</a></small>
                 <ul className="tl">
                     <li className='pa2'>Analyzed user needs to determine the technical requirements for their website</li>
                     <li className='pa2'>Designed, built, and maintained a user-friendly website using scripting languages, content creation tools and digital media</li>
